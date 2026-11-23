@@ -1,0 +1,10 @@
+# build artifacts
+build/
+stubs/
+tools/__pycache__/
+__pycache__/
+*.pyc
+
+# local preview output
+/tmp/
+*.trace
